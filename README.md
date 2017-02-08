@@ -1,3 +1,0 @@
-# forEMGonset
-
-info info
